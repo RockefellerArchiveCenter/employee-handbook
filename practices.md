@@ -83,27 +83,17 @@ Employees must keep and submit all receipts or other proof of payment for every 
 If employees are unable to use their corporate purchase card, they can request reimbursement for work-related expenses via RAC’s travel expense reimbursement request form which is located on the HR SharePoint Site.  All expenses should be itemized on a daily basis and receipts attached.  Employees should consult with their supervisor for further guidance.  Categories of reimbursable business-related expenses include: 
 
 - Transportation:  RAC employees are permitted to incur transportation expenses while conducting RAC business.  This includes transportation such as air travel, rail travel, bus travel, or other form of public transportation.  Employees must provide  date of departure and date of return for each trip.   
-
 - Accommodations:  Reasonable use of hotels while conducting RAC business out of town is permitted.  Employees should provide the dates of the hotel stay.  All personal expenses (e.g., movies) should be excluded from the bill.    
-
 - Meals:  RAC employees are permitted to incur the expense of business meals in the course of travel away from home.  Employees should exercise reasonableness when expending RAC funds for business meals.  Documentation should include the name, title and affiliation of any of your guests.  For meetings, this information should include the business purpose of the meeting and/or meal.   
-
 - Registration Fees:  RAC will reimburse employees for membership/registration fees or dues associated with work-related business.     
-
 - Car Rental:  Rentals for RAC business should be charged to the employee’s RAC corporate purchase card.  The RAC’s business insurance covers the car rental and passengers so employees must decline additional coverage when renting the vehicle.  Employees should indicate that the rental is for Rockefeller Archive Center business use.    
-
 - Taxi and Car Services:  Car services or taxis may be used for approved business-related travel.  Employees are encouraged to share rides, when appropriate, to reduce costs.   
-
 - Personal Automobile Travel:  Employees using a personal auto for business purposes must submit a brief explanation of their travels, including departure point and destination, and mileage.  Employees are required to show total mileage, and reimbursements will be made using standard IRS mileage rates, plus tolls and parking fees.  Actual car expenses such as gasoline, oil, and repairs are not reimbursable.   
 
-- Other Expenses:  In order to be reimbursed or charged to the corporate purchase card, incidental expenditures must be business related and be reasonable in amount.  
-
+Other Expenses:  In order to be reimbursed or charged to the corporate purchase card, incidental expenditures must be business related and be reasonable in amount.  
 - Tips and Gratuities:  Tips incurred in connection with taxi fares or meals should be added to the expenses with which they are related.  Cash gratuities without receipts to service personnel, such as bellhops, cab drivers, or room attendants should be reflected in the appropriate section of the travel expense reimbursement form.   
-
 - Valet Service:  Valet services while on an extended RAC-related business trip, if reasonable and necessary, are reimbursable.  
-
 - Business Expenses for Family Member:  Generally, any expense incurred by a spouse or other family members will not be reimbursed by the RAC.  
-
 - Childcare Reimbursement:  The RAC will not reimburse its employees for any childcare expenses incurred.   
 
  
