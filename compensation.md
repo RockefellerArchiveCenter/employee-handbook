@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Employee handbook - Compensation"
+title:  "Employee Handbook - Compensation"
 ---
 ## Rockefeller Archive Center Compensation Program 
 
@@ -10,29 +10,19 @@ title:  "Employee handbook - Compensation"
 
 The RAC is dedicated to providing a fair and competitive compensation program that will attract, retain, and engage a talented and diverse workforce by providing a positive environment with career growth opportunities, successful work-life balance, and competitive compensation and benefits, that are consistent with the RAC’s business needs and financial capabilities.  
 
- 
-
 The goals of the compensation program include: 
 
 - Maintaining a compensation program and salary ranges that are equitable in a competitive market. 
 - Committing to transparency and consistency in making compensation decisions. 
 - Clarifying the knowledge, skills, and abilities required to competently perform job duties, and aiding in the development of career growth opportunities for employees. 
 
- 
-
 The President and Director of HR & Operations, with input from leadership staff, will be responsible for the administration of the compensation program.  
-
- 
 
 ### Job Descriptions  
 
 All positions at the RAC have a corresponding job description. Job descriptions are developed by Human Resources, in conjunction with the employee’s supervisor and program Director. Job descriptions are meant to explain the tasks, duties, functions and responsibilities expected of a position. Supervisors are responsible for reviewing their employees’ job descriptions annually. This review should be a collaborative process between employee and supervisor. Changes to a job description must be shared with the employee and then approved by the employee’s supervisor and the program’s Director. Human Resources will be responsible for updating changes to job descriptions and ensuring that all active job descriptions are accessible to employees on the RAC’s Job Description Library.  
 
- 
-
 ### Salary Structure  
-
- 
 
 #### Pay Grades and Pay Ranges  
 
@@ -44,7 +34,6 @@ Midpoint Range- The salary range that typically represents the competitive marke
 
 Maximum Range- The salary range that is generally reserved for employees who have demonstrated outstanding performance, and/or employees with significant job tenure, typically more than 20 years of time in job.  
 
-
 #### Procedure 
 
 - On an annual basis, or as necessary, the President and the Director of HR & Operations will work with the RAC’s compensation consulting firm to review its salary structure in consideration of changing economic and competitive factors as determined by published salary surveys and other data sources. 
@@ -52,12 +41,9 @@ Maximum Range- The salary range that is generally reserved for employees who hav
 - Any changes to the structure must be approved by the President. 
 - This policy is subject to budgetary constraints. 
 
-
 ### Assignment of a New Position to a Salary Grade  
 
 Whenever a new position is established, or a position is significantly modified due to changes in assigned duties, the position must be reviewed by the President, the program’s Director (if applicable), and the Director of HR & Operations in order to determine an appropriate position title, salary grade, and/or salary range.  
-
- 
 
 #### Procedure  
 
@@ -66,15 +52,9 @@ Whenever a new position is established, or a position is significantly modified 
 - The proposed assignment will be reviewed by the RAC’s compensation consultants and measured against relevant market data and current salary structure for accuracy and fairness. 
 - The President must approve the new position, salary grade, and range before any recruitment may begin. 
 
- 
-
 ### Request Review of Salary Grade Assignment  
 
- 
-
 Supervisors and employees may request a review of a position’s salary grade assignment at any time during the year. Requests must be approved by the employee’s supervisor and discussed with the program’s Director and the Director of HR & Operations prior to review and consideration by the President.  
-
- 
 
 #### Procedure 
 
@@ -86,29 +66,20 @@ Supervisors and employees may request a review of a position’s salary grade as
 - The results of the review should be reported to the employee by the supervisor. 
 - Disagreements regarding the reassignment of a position should be directed to Human Resources. 
 
- 
-
 ### Starting Salaries-New Hires  
 
 In general, starting salaries should be set at least at the minimum range of the respective salary grade. Exceptions to this policy may exist in cases with unusual circumstances, where market conditions prohibit hiring within the authorized salary grade, or when hiring experienced employees who possess required critical skills. Any exceptions to this policy must be approved by the President.  
-
- 
 
 #### Procedure  
 
 - The Director of Operations will review the applicant’s qualifications in relation to the position’s requirements, external market factors, and the current wages of individuals employed in similar titles. 
 - Based on this review, a recommendation will be made to the President and program Director. Factors that will be considered include, market pay influences, budget capabilities, and consistency with the RAC’s salary structure. 
 - Starting salaries for new hires should not be set at a rate greater than the salaries of existing employees with equivalent qualifications within the same job title to reduce the possibility of compression issues. 
- 
 
-### Job Changes  
-
- 
+### Job Changes   
 
 #### Promotions  
 Promotions are defined as the movement of an employee to a position with a definite increase in responsibilities and authority and clear-cut changes in duties signified by an increase in salary grade. Promotions may occur at any time during the year.  
-
- 
 
 ##### Procedure 
 
@@ -116,47 +87,27 @@ Promotions are defined as the movement of an employee to a position with a defin
 - The actual amount of the increase should be governed by the employee’s present salary/position in the current salary range, level of performance, and number of ranges being promoted. 
 - The employee's pay should be adjusted to the minimum of the new salary grade, if appropriate. Additional consideration may be given based on the employee’s overall job performance as well as the employee’s knowledge, skills, and abilities as it relates to the new position. 
 
- 
-
 #### Lateral Job Transfers  
 
 A lateral job transfer is the movement of an employee from one position to another in the same salary range. Employees may be laterally transferred to another position (whether voluntarily or involuntarily) within the RAC based on availability and the employee’s ability to perform the duties of the new position.  
-
- 
 
 ##### Procedure  
 
 At the time of a lateral job transfer to another position in the same salary range, an employee would not normally receive a salary increase. However, the specifics of the new position, including duties and responsibilities will be considered. 
 
- 
-
 #### Demotions  
 
 A demotion is the reduction in an employee’s grade based on the movement to a lower salary range that may be due to reasons such as reevaluation of the position, reduction in force, organizational restructuring, poor employee performance, or disciplinary actions.  
-
- 
 
 ##### Procedure  
 
 If the employee’s salary is above the maximum of the new salary grade, the current salary will be frozen until such time as the employee warrants an increase or the grades are adjusted. Consideration should be given to the employee’s previous experience and performance, as well as recent salary increase history, and internal equity within the grade and position. 
 
- 
-
- 
-
- 
-
-### Salary Adjustments  
-
- 
+### Salary Adjustments 
 
 #### Bring To Minimum Adjustments  
 
- 
-
 Bring to minimum adjustments are those adjustments provided to employees whose salaries fall below the minimum range in their respective grade.  
-
- 
 
 ##### Procedure  
 
@@ -165,15 +116,9 @@ Bring to minimum adjustments are those adjustments provided to employees whose s
 - The President and the Director of HR & Operations will determine an action plan for bringing each impacted employee to the minimum of the salary grade. 
 - This policy is subject to budgetary constraints and any adjustments must be approved by the President. 
 
- 
-
 #### Market-Based Pay Adjustments  
 
- 
-
 Market-based pay adjustments are those adjustments that specifically focus on the value of the employee’s position in the current labor market. Salary adjustments may be made to address significant discrepancies between the RAC’s level of pay and market pay levels for positions. Every one to two years, the Director of HR & Operations, in consultation with the RAC’s compensation consultants, will compare current employee pay levels to the market pay for similar positions.  
-
- 
 
 ##### Procedure  
 
@@ -181,21 +126,13 @@ Market-based pay adjustments are those adjustments that specifically focus on th
 - If a request is made, a review will be conducted using current market survey data. 
 - Based on this review, individual employee pay may be adjusted to better reflect market rates, decrease compensation-related turnover, or match a job offer. The actual percentage of the adjustment will be based on the employee’s knowledge, skills, and abilities in comparison to the job’s knowledge, skills, and abilities, as well as external market pay factors.  
 - Market adjustments will only be considered for employees who are meeting performance standards for the position. 
-- The policy is subject to budgetary constraints and any adjustments must be approved by the President. 
-
- 
-
+- The policy is subject to budgetary constraints and any adjustments must be approved by the President.
+- 
 If it is exceedingly difficult to recruit and retain employees in a particular position at the RAC because of compensation requirements, the President may approve a salary adjustment to address the demand for greater pay because of market competitiveness.  
-
- 
 
 #### Annual Cost-of-Living Adjustments  
 
- 
-
 The RAC will evaluate annually the appropriateness and affordability of annual cost-of-living salary adjustments to ensure that salaries remain competitive.  
-
- 
 
 The factors that the RAC will consider when approving, include, but are not limited to the following:  
 
@@ -204,27 +141,15 @@ The factors that the RAC will consider when approving, include, but are not limi
 - Wage inflation, as measured by the federal Bureau of Labor Statistics Employment Cost Index. 
 - Overall inflation, as measured by the Consumer Price Index. 
 
- 
-
 Factors that will be considered include the RAC’s budgetary capabilities and overall employee performance.  
-
- 
 
 For any employees whose pay is at or above the maximum range of their salary grade, future increases will be frozen so long as the current pay is greater than the salary grade maximum.  
 
- 
-
 At its discretion, the RAC may offer another option such as a lump sum payment in lieu of a cost-of-living adjustment.  
-
- 
 
 #### Merit Increases  
 
- 
-
 Merit increases are increases to an employee’s base salary designed to reward employees who have exceeded their individual performance goals and who have made particularly valuable contributions to their department’s goals and the overall goals of the RAC.  
-
- 
 
 ##### Procedure  
 
@@ -233,27 +158,15 @@ Merit increases are increases to an employee’s base salary designed to reward 
 - Supervisors of each program area will be responsible for recommending merit increases for their respective employees. Supervisors should consider factors such as the employee’s overall performance and position within the salary range. 
 - Recommended merit increases will be reviewed by the President, the program’s Director, and the Director of HR & Operations prior to notifying the employee. 
 
- 
-
 An employee whose pay is at the maximum of the salary range may not be granted a merit increase that would cause the base salary to exceed the maximum of the range for that position.  
-
- 
 
 Subject to budgetary constraints, and at the RAC’s discretion, employees at the maximum range who are assessed to have sustained successful to outstanding performance may receive a lump sum payment in lieu of a merit increase.  
 
- 
-
 #### Recognition Awards  
 
- 
-
-Subject to budgetary constraints and upon discretion of the President, the RAC may provide recognition awards to employees. 
-
- 
+Subject to budgetary constraints and upon discretion of the President, the RAC may provide recognition awards to employees.  
 
 Recognition awards may be provided to an employee who has exhibited exceptional work performance on a specific project, has had outstanding and exceptional performance working in a team environment, or as recognition for the implementation of a significant program.  
-
- 
 
 ##### Procedure  
 
@@ -261,25 +174,17 @@ Recognition awards may be provided to an employee who has exhibited exceptional 
 - Supervisors of each program area will be responsible for recommending recognition awards for their respective employees. 
 - All recommendations will be reviewed by the President, the program’s Director, and the Director of HR & Operations prior to notifying the employee. 
 
- 
-
 ### Communication to Employees  
 
 Communications regarding the salary program will be consistent and on-going to help employees establish an understanding of this program.  
 
- 
-
 The RAC will provide all employees with applicable salary information regarding their positions, grade assignments and corresponding salary ranges at the time of hire, and during annual performance discussions with supervisors. In addition, the RAC is responsible for communicating changes to this program in a timely manner.  
-
- 
 
 ### General Provisions  
 
 The RAC may amend or discontinue its compensation program at any time, at the sole discretion of the President. Nothing in this program shall be interpreted as giving any individual the right to  
 
 be retained as an employee of the RAC, or of limiting the RAC’s right to terminate employment at any time in the course of its business. All recommendations for exceptions to the policies regarding starting salaries, promotions, demotions, and increases must receive final approval from the President. 
-
- 
 
 ## Work Hours and Overtime Pay 
 
@@ -301,19 +206,13 @@ Non-working time, including lunch breaks, vacation, sick days, and personal days
 
 Full-time employees are allowed a one-hour unpaid meal break.  Part-time employees who work at least six (6) hours in a day are allowed a half hour unpaid meal break.  Meal breaks are required by law and, therefore, employees must take their meal breaks.  Employees should not perform any work-related activity during meal breaks.  Shorter meal breaks may be taken if approved in advance by an employee’s supervisor and if consistent with applicable law. 
 
- 
-
 ### Pay Schedules  
 
 Employees are paid on a semi-monthly basis, on the 15th and on the 30th of each month.  Pay periods run from the 1st to the 15th and from the 16th to the last day of every month.  A schedule of pay dates and related deadlines for submitting timecards can be found on the ADP portal. 
 
- 
-
 ### Pay Corrections 
 
 It is the RAC’s policy and practice to accurately compensate employees and to do so in compliance with all applicable state and federal laws.  Employees should record correctly all work time and review their paychecks promptly to ensure that their pay and deductions are accurate.  Any errors should be promptly reported to Human Resources.  
-
- 
 
 ### Non-exempt Employees 
 
@@ -323,13 +222,9 @@ Non-exempt employees should not work any hours beyond their regular schedule unl
 
 It is a violation of RAC policy for any employee to falsify a timecard, or to alter another employee’s timecard. It is also a serious violation of RAC’s policy for any employee or supervisor to instruct another employee to incorrectly or falsely report hours worked or alter another employee's time record to under- report or over-report hours worked.  Any employee who is instructed by a supervisor or employee to (1) incorrectly or falsely under-report or over-report their hours worked, or (2) alter another employee's time records to inaccurately or falsely report that employee's hours worked, should report it immediately to Human Resources. 
 
- 
-
 ### Exempt Employees 
 
 Exempt employees are exempt from the overtime pay provisions under applicable law.  Exempt employees will receive a salary which is intended to compensate for all hours that may be worked for the RAC.  This salary will be established at the time of hire or when becoming classified as an exempt employee.  While it may be subject to review and modification from time to time, the salary will be a predetermined amount that will not be subject to deductions for variations in the quantity or quality of the work performed by an employee. 
-
- 
 
 Under federal and state law, an employee’s salary is subject to certain deductions.  For example, absent contrary state law requirements, an employee’s salary can be reduced for the following reasons: 
 
@@ -347,11 +242,7 @@ Employees’ salaries  may also be reduced for certain types of deductions such 
 - Absences for jury duty, attendance as a witness, or military leave in any week in which you have performed any work.  
 - Any other deductions prohibited by state or federal law.  
 
- 
-
 It is not an improper deduction to reduce an employee’s accrued vacation, personal or other forms of paid time off for full or partial day absences for personal reasons, sickness or disability.  
-
- 
 
 ### To Report Concerns or Obtain More Information 
 
