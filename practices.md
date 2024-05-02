@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Employee handbook - Practices"
+title:  "Employee Handbook - Practices"
 ---
 ## Business Attire  
 
@@ -66,15 +66,11 @@ Employees who leave the RAC will receive their final paycheck, including any acc
 
 ## Business-Related Expenses 
 
- 
-
 RAC trustees, officers, and employees should aim to maximize the resources available by incurring only reasonable expenses while traveling on RAC business.  Employees should consult with their supervisor for further guidance.       
 
 The RAC will pay directly or reimburse all expenses for transportation, hotel, meals, tips, taxis, and miscellaneous expenses incurred by an employee while conducting RAC business.  Employees must obtain approval from their supervisor before incurring a work-related expense.  This includes obtaining approval for any work-related training or conferences.     
 
 Employees must keep and submit all receipts or other proof of payment for every work-related expense incurred.  While conducting RAC business, employees are responsible for maintaining accurate records regarding all expenditures.  
-
- 
 
 ### Reimbursement Methods  
 
@@ -95,8 +91,6 @@ Other Expenses:  In order to be reimbursed or charged to the corporate purch
 - Valet Service:  Valet services while on an extended RAC-related business trip, if reasonable and necessary, are reimbursable.  
 - Business Expenses for Family Member:  Generally, any expense incurred by a spouse or other family members will not be reimbursed by the RAC.  
 - Childcare Reimbursement:  The RAC will not reimburse its employees for any childcare expenses incurred.   
-
- 
 
 #### Petty Cash Reimbursements   
 
