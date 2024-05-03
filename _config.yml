@@ -1,9 +1,15 @@
 public:
 type: "docs"
-category:
+category: "reference and outreach"
 tags:
 
-title:
-description:
+title: "Employee Handbook"
+description: "Rockefeller Archive Center Employee Handbook"
 pages:
-  - ["Documentation Title", "index"]
+  - ["Employee Handbook", "index"]
+  - ["Policies", "policies"]
+  - ["Practices", "practices"]
+  - ["Compensation", "compensation"]
+  - ["Employee Benefits and Time Off" 
+- ["Planning", "planning"]
+  - ["Processing", "processing"]
