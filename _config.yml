@@ -7,9 +7,10 @@ title: "Employee Handbook"
 description: "Rockefeller Archive Center Employee Handbook"
 pages:
   - ["Employee Handbook", "index"]
-  - ["Policies", "policies"]
-  - ["Practices", "practices"]
+  - ["Employment Policies", "policies"]
+  - ["Employment Practices", "practices"]
   - ["Compensation", "compensation"]
-  - ["Employee Benefits and Time Off" 
-- ["Planning", "planning"]
-  - ["Processing", "processing"]
+  - ["Employee Benefits and Time Off", "benefits-time-off"]
+  - ["Staff Development and Training", "staff-development-training"]
+  - ["Office Policies and Procedures", "office-policies-procedures"]
+  - [Information Technology", "information-technology"]
