@@ -24,7 +24,7 @@ No RAC employee, supervisor or representative, other than RAC’s President, has
 [Employee Benefits and Time Off](benefits-time-off)
 ## Staff Development and Training
 [Staff Development and Training](staff-development-training)
-## Office Polices and Procedures
+## Office Policies and Procedures
 [Office Policies and Procedures](office-policies-procedures)
 ## Information Technology
 [Information Technology](information-technology)
