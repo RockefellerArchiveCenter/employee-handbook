@@ -5,7 +5,7 @@ tags:
 title: "Employee Handbook"
 description: "Rockefeller Archive Center Employee Handbook"
 pages:
-  - ["Employee Handbook", "index"]
+  - ["About", "index"]
   - ["Employment Policies", "policies"]
   - ["Employment Practices", "practices"]
   - ["Compensation", "compensation"]
