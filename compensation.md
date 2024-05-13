@@ -202,19 +202,19 @@ It is the RAC’s policy that a supervisor’s authorization is required in adva
 
 Non-working time, including lunch breaks, vacation, sick days, and personal days, do not count towards overtime calculations for non-exempt employees.  Employees who are required to work on an RAC recognized holiday will be paid overtime.  
 
-### Meals and Breaks  
+## Meals and Breaks  
 
 Full-time employees are allowed a one-hour unpaid meal break.  Part-time employees who work at least six (6) hours in a day are allowed a half hour unpaid meal break.  Meal breaks are required by law and, therefore, employees must take their meal breaks.  Employees should not perform any work-related activity during meal breaks.  Shorter meal breaks may be taken if approved in advance by an employee’s supervisor and if consistent with applicable law. 
 
-### Pay Schedules  
+## Pay Schedules  
 
 Employees are paid on a semi-monthly basis, on the 15th and on the 30th of each month.  Pay periods run from the 1st to the 15th and from the 16th to the last day of every month.  A schedule of pay dates and related deadlines for submitting timecards can be found on the ADP portal. 
 
-### Pay Corrections 
+## Pay Corrections 
 
 It is the RAC’s policy and practice to accurately compensate employees and to do so in compliance with all applicable state and federal laws.  Employees should record correctly all work time and review their paychecks promptly to ensure that their pay and deductions are accurate.  Any errors should be promptly reported to Human Resources.  
 
-### Non-exempt Employees 
+## Non-exempt Employees 
 
 Non-exempt employees are covered by the overtime provisions under applicable law.  Non-exempt employees must maintain a record of the total hours worked each day using timecards. Employees must verify that the reported hours worked are accurate and include all regular and overtime hours worked.  
 
@@ -222,7 +222,7 @@ Non-exempt employees should not work any hours beyond their regular schedule unl
 
 It is a violation of RAC policy for any employee to falsify a timecard, or to alter another employee’s timecard. It is also a serious violation of RAC’s policy for any employee or supervisor to instruct another employee to incorrectly or falsely report hours worked or alter another employee's time record to under- report or over-report hours worked.  Any employee who is instructed by a supervisor or employee to (1) incorrectly or falsely under-report or over-report their hours worked, or (2) alter another employee's time records to inaccurately or falsely report that employee's hours worked, should report it immediately to Human Resources. 
 
-### Exempt Employees 
+## Exempt Employees 
 
 Exempt employees are exempt from the overtime pay provisions under applicable law.  Exempt employees will receive a salary which is intended to compensate for all hours that may be worked for the RAC.  This salary will be established at the time of hire or when becoming classified as an exempt employee.  While it may be subject to review and modification from time to time, the salary will be a predetermined amount that will not be subject to deductions for variations in the quantity or quality of the work performed by an employee. 
 
@@ -244,10 +244,10 @@ Employees’ salaries  may also be reduced for certain types of deductions such 
 
 It is not an improper deduction to reduce an employee’s accrued vacation, personal or other forms of paid time off for full or partial day absences for personal reasons, sickness or disability.  
 
-### To Report Concerns or Obtain More Information 
+## To Report Concerns or Obtain More Information 
 
 Questions about deductions from pay should be directed to the employee’s supervisor or to HR.  Any employees who believe that they have been subject to any improper deductions or their pay does not accurately reflect their hours worked, should immediately report the matter to their supervisor or to Human Resources.  Every report will be fully investigated and corrective action will be taken where appropriate, up to and including discharge for any employee(s) who violates this policy.  In addition, the RAC will not allow any form of retaliation against individuals who report alleged violations of this policy or who cooperate in an investigation of such reports.  Retaliation is unacceptable, and any form of retaliation in violation of this policy will result in disciplinary action, up to and including termination. 
 
-### Working Weekends and Holidays  
+## Working Weekends and Holidays  
 
 Non-exempt employees who work on a holiday or weekend must do so with prior approval from their supervisor.  Exempt employees should notify their supervisor, but do not necessarily have to obtain approval from their supervisor to work on a weekend or holiday.     
