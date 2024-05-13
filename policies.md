@@ -16,7 +16,7 @@ This policy applies to all applicants, employees, and persons at the RAC and pro
 
 This policy may not be used as a basis for excluding or separating individuals of a particular gender, or any other protected characteristic, from participating in business or work-related social activities or discussions in order to avoid allegations of harassment.  In other words, no one should make the mistake of engaging in discrimination or exclusion in order to avoid allegations of harassment.  The law and policy of the RAC prohibit disparate treatment on the basis of sex or any other protected characteristic, with regard to terms, conditions, privileges, and perquisites of employment. The prohibitions against harassment, discrimination, and retaliation are intended to complement and further these policies, not to form the basis of an exception to them.  Individuals who have questions or concerns about this policy should speak with Human Resources or the President.   
 
-## Discriminatory Harassment  
+## Anit-Discriminatory Harassment  
 
 The RAC prohibits conduct that constitutes or could lead or contribute to harassment based on actual or perceived age, race, alienage, citizenship, ethnicity or ancestry, religion or creed, color, national origin, sexual orientation, gender identity or expression, military or veteran status, sex (including pregnancy), disability, status as a victim of domestic violence and related protected classes, marital status, familial status, genetic information or predisposing genetic characteristics, height, weight, or any other characteristic protected by local, state or federal law, and that:   
 
