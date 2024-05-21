@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Employee Handbook - Practices"
+title:  "Employee Handbook - Employment Practices"
 ---
 ## Business Attire  
 
