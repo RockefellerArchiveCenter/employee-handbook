@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Employee Handbook - Office Policies and Procedures"
+title:  "Employee Handbook - Office Policy and Procedures"
 ---
 ## Emergency Action Plan 
 
