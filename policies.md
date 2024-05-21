@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Employee Handbook - Policies"
+title:  "Employee Handbook - Employment Policies"
 ---
 ## Equal Employment Opportunity Policy  
 
