@@ -16,6 +16,10 @@ To help ensure a safe work environment, the RAC is monitored through the use of 
 
 The RAC buildings open at 7:30 am and close at 6 pm Monday through Friday.  Special exceptions to regular hours of operation may be made, such as instances when the RAC hosts special events.  Employees who may need to occasionally work outside of regular hours of operation must obtain prior approval from their supervisor.  Employees are not permitted in the building before it is opened by facilities staff or after it is closed by Greenrock Security personnel.  Employees will not have entry access to the gate between 6pm and 7:20 am Monday through Friday. 
 
+## Shuttle Service
+
+The RAC provides complimentary transportation to and from the Tarrytown Train Station twice per day.  The car service departs the Tarrytown Train Station promptly at 9:15 a.m. to drop off passengers at the RAC and then departs the RAC at 5:15 p.m. to drop off passengers at the Tarrytown Train Station.  Since the RAC reimburses employee work-related travel to and from the Tarrytown Train Station, this service is primarily designated for researchers; however, staff are free to use this service whenever there is available space. Employees do not need to inform Operations or Access staff when using this service.  They should wait at the designated pickup/drop off locations to see if there is available space.   
+
 ## Procedures for Main Gate Entry   
 
 This policy is intended to explain procedures for answering calls from the main gate, to outline responsibilities all employees should follow when expecting visitors, and to clarify expectations when transportation is needed on behalf of employees or visitors.  
