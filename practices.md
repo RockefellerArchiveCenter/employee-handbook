@@ -40,6 +40,48 @@ The RAC expects all employees to follow the guidelines set forth in this policy.
 
 Official RAC stationery should not be used for personal correspondence.  The stationery is to be used only for professional matters.  Employees are responsible for complying with this policy and all other rules and procedures the RAC establishes from time to time for use of its stationery. 
 
+## Internal Hiring Policy 
+
+### Purpose 
+
+The RAC is committed to fostering a workplace environment that encourages professional growth and development of its employees.  We recognize that providing opportunities for career advancement and role transitions within our organization not only benefits our employees but also strengthens our organizational capacity and effectiveness in serving our mission. This policy outlines the process for internal candidates seeking new positions within the RAC. 
+
+### Eligibility  
+
+To ensure fair consideration and appropriate timing of internal moves while supporting employee development, the following eligibility requirements apply to all internal candidates seeking new positions within the RAC. These eligibility requirements serve as general guidelines and may be reviewed on a case-by-case basis in consultation with Human Resources.   
+- Employees must have been in their current position for a minimum of 12 months 
+- Employees must be meeting or exceeding performance expectations in their current role 
+- No active disciplinary actions or performance improvement plans 
+
+### Process 
+
+Before applying for an open position, interested employees must inform their immediate supervisor of their intention to apply. This communication ensures transparency and allows for proper workforce planning.  Supervisors should notify the program’s Director and Human Resources of the employee’s intention to apply. 
+
+The discussion with the supervisor should include: 
+- The employee's interest in the position 
+- How the position aligns with their career goals 
+- Any potential timing considerations for transition if selected 
+
+### Equal Consideration 
+
+Internal candidates will receive the same objective evaluation of their qualifications, skills, and experience as external candidates. This includes participating in the standard interview process and reviewing relevant experience and qualifications. 
+
+### Confidentiality 
+
+The RAC maintains confidentiality throughout the internal application process. Information regarding applications will only be shared with those directly involved, ensuring professional discretion for all candidates. 
+
+### Communication and Follow-up 
+
+All internal candidates will receive formal communication regarding hiring decisions via email, regardless of the outcome. This ensures clear and consistent communication throughout the process. 
+
+### Career Development Support 
+
+If an internal candidate is not selected for a position, they will be offered the opportunity to schedule a meeting with the hiring manager for the position and the Director of HR & Operations to discuss their career interests and goals. 
+
+### Transition Guidelines 
+
+When an internal candidate is selected for a new position, a transition period of 2-4 weeks is standard. The specific timing will be coordinated between departments based on business needs and complexity of the role. Both the current and new managers must agree on the transition schedule. A written transition plan will be developed to ensure appropriate knowledge transfer and minimal disruption to operations. 
+
  
 
 ## Onboarding and Offboarding 
