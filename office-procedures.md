@@ -18,7 +18,7 @@ The RAC buildings open at 7:30 am and close at 6 pm Monday through Friday.  Spec
 
 ## Shuttle Service
 
-The RAC provides complimentary transportation to and from the Tarrytown Train Station twice per day.  The car service departs the Tarrytown Train Station promptly at 9:15 a.m. to drop off passengers at the RAC and then departs the RAC at 5:15 p.m. to drop off passengers at the Tarrytown Train Station.  Since the RAC reimburses employee work-related travel to and from the Tarrytown Train Station, this service is primarily designated for researchers; however, staff are free to use this service whenever there is available space. Employees do not need to inform Operations or Access staff when using this service.  They should wait at the designated pickup/drop off locations to see if there is available space.   
+The RAC provides complimentary transportation to and from the Tarrytown Train Station twice per day.  The car service departs the Tarrytown Train Station promptly at 9:20 a.m. to drop off passengers at the RAC and then departs the RAC at 5:10 p.m. to drop off passengers at the Tarrytown Train Station.  This service is designated for researchers and staff.  Employees do not need to inform Operations or Access staff when using this service.  Staff should wait at the designated pickup/drop-off locations whenever using this service.   
 
 ## Procedures for Main Gate Entry   
 
