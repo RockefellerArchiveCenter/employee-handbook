@@ -55,28 +55,23 @@ The purpose of this policy is to outline the procedures for reserving and using 
 
 RAC staff may reserve the following meeting rooms:  
 
-- Conference Room  
+- Conference Room 
   - Located on the first floor of the Main House.  Accommodates up to 25 for meetings and can comfortably fit 20 people for lunch.  Features a Promethean Active Smart Panel.  
 
 - Quiet Room 
   - Located on the first floor of the Main House.  This room is designated as a multipurpose room that may be used by staff, researchers, and other guests.  This room is also the RAC’s dedicated lactation room.  This room accommodates up to 3-4 people for meetings. 
 
-- Junior’s Office  
-
+- Junior’s Office 
   - Located on the first floor of the Main House. Accommodates up to 6 for meetings.  Food and drink are generally prohibited in this meeting room, except for special events.  
 - Dining Room
   - Located on the first floor of the Main House.  Accommodates up to 10 people for meetings and more formal lunches.  
-
-- Carriage House Conference Room  
-
-  - Located in the Carriage House.  This meeting room accommodates 10-14 for meetings.  Features a Promethean Active Smart Panel.  
-
+- Carriage House Conference Room 
+  - Located in the Carriage House.  This meeting room accommodates 10-14 for meetings.  Features a Promethean Active Smart Panel.
+- R&E Sitting Room 
+  - Located in the Carriage House.  This meeting room provides a cozy atmosphere for smaller meetings.
 - Preservation Lab 
-
   - Located on the basement level of the Main House.  This room is typically reserved for audio-visual researchers and for archives preservation activities, but it can also be reserved as a place for stand-up meetings.  Food and drink are prohibited in this meeting room.   
-
 - Vault 107 
-
   - Located on the blue level of the Main House.  The vault is typically reserved to complete preservation projects lead by staff.  This location may also be used for exhibits during donor visits. 
 
 ### Reserving a Room  
