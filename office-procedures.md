@@ -67,7 +67,11 @@ RAC staff may reserve the following meeting rooms:
 
 - Carriage House Conference Room  
 
-  - Located in the Carriage House.  This meeting room accommodates 10-14 for meetings.  Features a Promethean Active Smart Panel.  
+  - Located in the Carriage House.  This meeting room accommodates 10-14 for meetings.  Features a Promethean Active Smart Panel.
+
+- R&E Sitting Room  
+
+  - Located in the Carriage House.  This meeting room provides a cozy atmosphere for smaller meetings.
 
 - Preservation Lab 
 
