@@ -208,9 +208,7 @@ Upon receipt of a jury duty notice, employees must immediately notify their supe
 
 ## Time Off to Vote  
 
-Employees of the RAC are entitled to take up to two (2) hours off work, at the beginning or end of their workday to vote.  This time off will be paid; however, time off will not be granted if the employee has four (4) consecutive non-work hours at the beginning or end of their workday when polls are open.     
-
-Employees who need to take time off work to vote must inform their supervisors at least three (3) days in advance.  Employees are expected to consult with their supervisors to ensure that their absence does not negatively impact the RAC’s operations.   
+Employees of the RAC are entitled to take up to two (2) hours off work to vote.  This time off will be paid; however, time off will not be granted if the employee has four (4) consecutive non-work hours at the beginning or end of their workday when polls are open. Employees are expected to consult with their supervisors to ensure that their absence does not negatively impact the RAC’s operations.   
 
 ## Blood Donation Leave  
 
