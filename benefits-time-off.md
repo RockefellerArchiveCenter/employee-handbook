@@ -104,7 +104,7 @@ Employees begin accruing paid sick leave pursuant to this policy at the start of
 
 ### Usage 
 
-Employees may begin using accrued paid sick leave immediately.  Part-time employees may use paid sick leave in minimum three and a half (3.5) hour increments.  A part-time employee may not use more than forty (40) hours of accrued paid sick leave in any calendar year.  Full-Time employees may not use more than ten (10) consecutive days of paid sick leave (though they may file for short-term disability benefits for longer absences). 
+Employees may begin using accrued paid sick leave immediately.  Part-time employees may use paid sick leave in minimum one (1) hour increments.  A part-time employee may not use more than forty (40) hours of accrued paid sick leave in any calendar year.  Full-Time employees may not use more than ten (10) consecutive days of paid sick leave (though they may file for short-term disability benefits for longer absences). 
 
  
 

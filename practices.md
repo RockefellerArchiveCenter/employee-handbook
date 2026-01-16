@@ -142,7 +142,7 @@ Petty cash reimbursements have a maximum limit of $100.00.  Petty cash can be 
 
 #### Transportation Reimbursement related to the Tarrytown Train Station 
 
-The RAC will reimburse employee work-related travel to and from the Tarrytown Train Station.  Employees may use their corporate purchase card to cover this expense.  Employees who don't have a corporate card will be reimbursed through petty cash. 
+The RAC will reimburse employee work-related travel to and from the Tarrytown Train Station.  Staff may use their corporate purchase card to cover this expense.  Staff who don't have a corporate card will be reimbursed through petty cash.  Staff are encouraged to coordinate carpools to and from the train station whenever possible as it helps to control expenses and is more sustainable for the environment.  Please see the [RAC's Shuttle Service Policy](employee-handbook/office-procedures#shuttle-service) for more information.  
 
 ## RAC Corporate Purchase Card Program  
 
