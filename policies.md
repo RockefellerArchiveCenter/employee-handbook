@@ -359,4 +359,57 @@ An employee’s participation in a flexible work arrangement is not guaranteed.�
 
 ## Open Door Policy 
 
-Employees are encouraged to bring any work-related questions, suggestions, or concerns to their supervisor or to other leadership staff.  If no satisfactory response is received, employees should feel free to bring the matter to a higher level of supervision, including Human Resources or the President. 
+Employees are encouraged to bring any work-related questions, suggestions, or concerns to their supervisor or to other leadership staff.  If no satisfactory response is received, employees should feel free to bring the matter to a higher level of supervision, including Human Resources or the President.
+
+## Social Media Policy
+
+### Purpose
+
+The RAC is committed to helping its users interact online responsibly and knowledgeably through social media. The RAC encourages social media engagement to promote the sharing of knowledge and to build a valuable online community.
+
+This policy establishes a set of rules and guidelines for participation in social media by RAC users.  These rules are intended to be adaptable to the changes in technology and norms of online communication and behavior and may be amended by the RAC at any time. 
+
+The term “social media” applies to any publicly available web-based or mobile technology, in use now or developed in the future, that enables individuals or entities to disseminate or receive content, communicate, or otherwise interact through providers such as Facebook, Instagram, LinkedIn, Threads, TikTok, Twitter, YouTube, or others. 
+
+The term “users” includes RAC employees, interns, and independent contractors. 
+
+### All Social Media Activity
+
+Regardless of whether social media activity is related to official RAC business or personal use, employees are personally responsible for any social media activities conducted with their RAC email address or on the RAC social media platforms, and/or which can be traced back to the RAC domain, uses the RAC’s information systems, and/or which expressly or implicitly identifies the employee as an employee of the RAC.
+
+Users are expected to follow existing RAC policies, such as the Employee Handbook and Privacy Policy, the terms of use of the particular online/social networking venue, and any applicable law. This means that employees and other users are prohibited from using social media to post or display comments about coworkers or supervisors or the RAC that are vulgar, obscene, threatening, intimidating, or a violation of the RAC’s workplace policies against discrimination, harassment, or hostility on account of age, race, religion, sex, ethnicity, nationality, disability, or other protected class, status, or characteristic. All RAC policies, including its anti-harassment and discrimination policies, apply to employee behavior within social media and in public online spaces. 
+
+Users should not post any information or conduct any online activity that may violate applicable local, state or federal laws or regulations.  Any conduct which under the law is impermissible if expressed in any other form or forum is impermissible if expressed through social media. 
+
+Most websites, including Facebook and others, have rules concerning the use and activity conducted on their sites. These are sometimes referred to as “Terms of Use.” Employees must follow the established terms and conditions of use that have been established by the venue and not do anything that would violate those rules.
+
+Media inquiries for seeking information from the RAC regarding the organization, its collections, employees, researchers, donors, and/or depositor organizations should be referred to the President and Program Directors.  The President or Program Directors should inform the Social Media Coordinator of all media inquiries with implications for public relations and RAC brand identity. This is to ensure the consistency and accuracy of information and content that may be posted on social media. 
+
+It is inappropriate to use or disclose personal information about an individual or use or disclose the RAC’s confidential business or proprietary information in any form of social media.  For purposes of this policy, personal information means an individual's Social Security number, financial account number, driver’s license number, medical information (including family medical history), and other highly sensitive information.  
+
+The RAC’s confidential business or proprietary information includes but is not limited to internal information regarding the RAC’s finances, future business performance and business plans, business strategies, and information which relates to RAC donors and depositor organizations.  All policies regarding the RAC’s confidential or proprietary information and personal information apply to all social media interactions.  Sharing this type of information, even unintentionally, can potentially result in harm to the individual and harm to the RAC’s business.  
+
+Users must not post any knowingly false or maliciously misleading information online. All online content should be accurate and truthful.  
+
+Consistent with the RAC’s IT Acceptable Use Policy, the RAC may access and monitor its information systems and obtain communications within its systems, including email and internet usage, with or without notice to users, in the ordinary course of business when RAC deems it appropriate to do so.  When using such systems, users should have no expectation of privacy regarding time, frequency, content or other aspects of their use, including the websites they visit and other internet activities. The reasons the RAC accesses and monitors these systems include but are not limited to the following: maintaining the system; preventing or investigating allegations of system abuse or misuse; assuring compliance with software copyright laws; and complying with legal and regulatory requirements. 
+
+When publishing any online material through social media that includes another’s direct or paraphrased quotes, thoughts, ideas, photos, or videos, always use citations and link to the original material where applicable.  It is fine to quote, share, react, or duet others, but users should not attempt to pass off someone else’s words, photography, or other information as their own.  All copyright, privacy, and other laws that apply offline apply online as well.
+
+### Official RAC Social Media Accounts
+
+The official RAC social media accounts are managed by the Research and Engagement team.  The Social Media Coordinator is primarily responsible for planning, designing, and producing content for all RAC social media accounts. All posts on official RAC accounts are subject to management approval.
+
+Any social media contacts, including “followers,” “friends,” “connections,” etc. that are acquired through the RAC accounts, including but not limited to Facebook, Instagram, LinkedIn, Threads, TikTok, Twitter, or YouTube, or created on behalf of the RAC are the property of the RAC.  Any content created with RAC materials remains the property of the RAC in perpetuity, including content featuring an employee’s likeness.  Termination of employment does not end the ownership of the social media content created with RAC assets during employment. The RAC reserves the right to remove content at its discretion.
+
+RAC employees, interns, and contractors may opt in or out of participating in RAC-sponsored social media content by filling out a Social Media Participation Form. Opting in gives the RAC permission to use an individual’s photos, videos, and quotes in its social media content for as long as the RAC social media channels are published. That said, current and former RAC employees, interns, and independent contractors may request the removal of their likeness from RAC social media content (published or unpublished) at any time by writing to the Director of Human Resources and Operations.
+
+Any filming or photography of employees, researchers, guests, and visitors for RAC purposes must include express permission from the RAC as well as express permission and a signed release from the individual.  
+
+### Personal Social Media Activity
+If an employee’s personal social media post  makes it clear that the person is an employee of the RAC, or if the employee mentions the RAC, or it is reasonably clear the employee is referring to the RAC or a position taken by the RAC, and/or the employee expresses a political opinion or an opinion regarding the RAC’s positions or actions, the post must specifically note that the opinion expressed is the employee’s personal opinion and not the RAC’s position.  This is necessary to preserve the RAC’s goodwill in the communities and sectors it serves. A post about trends or the industry in general may not require such a disclaimer in all instances.  However, employees are encouraged to seek clarification from Human Resources or their supervisor if they have any questions or concerns regarding this. 
+
+It is best practice to obtain individual consent before sharing any comment, post, picture, or video about or with an individual on social media.
+When participating in any social media, users should be completely transparent and disclose their identity for their personal protection.  Additionally, when commenting on or promoting any RAC service on any form of social media, users must clearly and conspicuously disclose their relationship with the RAC to the members and users of that social media.  
+
+Employees are always welcome, but not required, to repost official RAC content provided they comply with all other rules and guidelines in this policy. To ensure brand consistency and accuracy, employees should not create original posts featuring RAC content on their personal accounts; instead, they are encouraged to repost or share content after it has been officially published by RAC.
+
