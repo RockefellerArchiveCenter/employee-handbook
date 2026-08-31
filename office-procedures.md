@@ -2,7 +2,6 @@
 layout: docs
 title:  "Employee Handbook - Office Policies and Procedures"
 ---
-## Emergency Action Plan 
 
 ## Keycard/Gate Transmitter Issuance 
 
