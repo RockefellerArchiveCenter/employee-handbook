@@ -383,7 +383,7 @@ Users should not post any information or conduct any online activity that may vi
 
 Most websites, including Facebook and others, have rules concerning the use and activity conducted on their sites. These are sometimes referred to as “Terms of Use.” Employees must follow the established terms and conditions of use that have been established by the venue and not do anything that would violate those rules.
 
-Media inquiries for seeking information from the RAC regarding the organization, its collections, employees, researchers, donors, and/or depositor organizations should be referred to the President and Program Directors.  The President or Program Directors should inform the Social Media Coordinator of all media inquiries with implications for public relations and RAC brand identity. This is to ensure the consistency and accuracy of information and content that may be posted on social media. 
+Media inquiries for seeking information from the RAC regarding the organization, its collections, employees, researchers, donors, and/or depositor organizations should be referred to the President and Program Directors.  The President or Program Directors should inform the Communications Coordinator of all media inquiries with implications for public relations and RAC brand identity. This is to ensure the consistency and accuracy of information and content that may be posted on social media. 
 
 It is inappropriate to use or disclose personal information about an individual or use or disclose the RAC’s confidential business or proprietary information in any form of social media.  For purposes of this policy, personal information means an individual's Social Security number, financial account number, driver’s license number, medical information (including family medical history), and other highly sensitive information.  
 
@@ -397,7 +397,7 @@ When publishing any online material through social media that includes another�
 
 ### Official RAC Social Media Accounts
 
-The official RAC social media accounts are managed by the Research and Engagement team.  The Social Media Coordinator is primarily responsible for planning, designing, and producing content for all RAC social media accounts. All posts on official RAC accounts are subject to management approval.
+The official RAC social media accounts are managed by the Research and Engagement team.  The Communications Coordinator is primarily responsible for planning, designing, and producing content for all RAC social media accounts. All posts on official RAC accounts are subject to management approval.
 
 Any social media contacts, including “followers,” “friends,” “connections,” etc. that are acquired through the RAC accounts, including but not limited to Facebook, Instagram, LinkedIn, Threads, TikTok, Twitter, or YouTube, or created on behalf of the RAC are the property of the RAC.  Any content created with RAC materials remains the property of the RAC in perpetuity, including content featuring an employee’s likeness.  Termination of employment does not end the ownership of the social media content created with RAC assets during employment. The RAC reserves the right to remove content at its discretion.
 
