@@ -63,7 +63,9 @@ RAC staff may reserve the following meeting rooms:
 - Junior’s Office 
   - Located on the first floor of the Main House. Accommodates up to 6 for meetings.  Food and drink are generally prohibited in this meeting room, except for special events.  
 - Dining Room
-  - Located on the first floor of the Main House.  Accommodates up to 10 people for meetings and more formal lunches.  
+  - Located on the first floor of the Main House.  Accommodates up to 10 people for meetings and more formal lunches.
+- Second Floor Meeting Room
+  - Located across from the Reading Room, this is a convenient option for meetings, collaboration, or small group discussions.  
 - Carriage House Conference Room 
   - Located in the Carriage House.  This meeting room accommodates 10-14 for meetings.  Features a Promethean Active Smart Panel.
 - R&E Sitting Room 
